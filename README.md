@@ -1,4 +1,4 @@
-#### Hi, I'm Joy Hasan 👋
+## Hi, I'm Awais Khan 👋
 ![Hi, I'm Joy Hasan 👋](https://github.com/awaiskhan28/awaiskhan28/blob/main/welcome1.png?raw=true)
 
 Passionate, determined and motivated software engineer with over a year of hands on experience implementing machine
