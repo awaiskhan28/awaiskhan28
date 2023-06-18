@@ -1,6 +1,17 @@
 ## Hi, I'm Awais Khan 👋
 ![Hi, I'm Joy Hasan 👋](https://github.com/awaiskhan28/awaiskhan28/blob/main/welcome1.png?raw=true)
 
+![Profile views](https://gpvc.arturio.dev/awaiskhan28)  
+
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
+
+<p align="left"> <a href="https://twitter.com/awais-khan" target="blank"><img src="https://img.shields.io/twitter/follow/awais-khan?logo=twitter&style=for-the-badge" alt="Awais Khan" /></a> </p>
+
+
+## 🚀 About Me:
 Passionate, determined and motivated software engineer with over a year of hands on experience implementing machine
 learning algorithms, designing and developing software tools for data analysis. With sufficient experience of front-end and
 back-end development projects.
@@ -9,21 +20,33 @@ As a Bachelor of Computer Science graduate with proficiency in Java, Javascript,
 allow me to bring fresh insights and contribute to the dynamic challenges of the tech industry. Motivated to learn from senior
 engineers and to provide error-free deliverables
 
-Skills:
-Java, Git, Python, JavaScript, Swift programming, HTML/CSS, Agile development methodologies, Data Structures and Algorithms,
-Object-Oriented Programming (OOP), Software Development Lifecycle (SDLC), Web Development Frameworks (e.g., React,
-Angular, Django), Additional Version Control Systems Databases and ORM,Test-Driven Development (TDD) and Unit Testing (e.g.,
-JUnit, pytest), Cloud Technologies, Containerization and Orchestration, Software Design Patterns
-Cloud Technologies (e.g., AWS, Azure, Google Cloud, EC2, S3, Google Cloud Storage), Containerization
-and Orchestration (e.g., Docker, Kubernetes), Software Design Patterns (e.g., Singleton, Observer)
+## 👨‍💻 Skills & Experiance: 
+✅ Java, Git, Python, JavaScript, Swift programming <br>
+✅ HTML/CSS, Agile development methodologies, Data Structures and Algorithms <br>
+✅ Object-Oriented Programming (OOP) <br>
+✅ Software Development Lifecycle (SDLC) <br>
+✅ Web Development Frameworks (e.g., React <br>
+✅ Angular, Django), Additional Version Control Systems Databases and ORM <br>
+✅ Test-Driven Development (TDD) and Unit Testing (e.g. <br>
+✅ JUnit, pytest), Cloud Technologies, Containerization and Orchestration <br>
+✅ Software Design Patterns, Cloud Technologies (e.g., AWS, Azure, Google Cloud, EC2, S3, Google Cloud Storage) <br>
+✅ Containerization and Orchestration (e.g., Docker, Kubernetes), Software Design Patterns (e.g., Singleton, Observer) <br>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan28)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/awaiskhan28)  
+
+## ☕ Connect with me!
+[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/#)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='40'>](https://www.instagram.com/#/)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='40'>](https://twitter.com/#)  [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/#)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/awais-khan-2319891a9/)  
+
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan28)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📧 For Business Inquiries:
+✅  ► awaiselias2@gmail.com
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=awaiskhan28&show_icons=true&count_private=true)  
 
@@ -31,4 +54,3 @@ and Orchestration (e.g., Docker, Kubernetes), Software Design Patterns (e.g., Si
 
 ![GitHub metrics](https://metrics.lecoq.io/awaiskhan28)  
 
-![Profile views](https://gpvc.arturio.dev/awaiskhan28)  
