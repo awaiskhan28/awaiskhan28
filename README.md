@@ -25,11 +25,8 @@ engineers and to provide error-free deliverables
 ✅ Object-Oriented Programming (OOP). <br>
 ✅ Software Development Lifecycle (SDLC). <br>
 ✅ Web Development Frameworks (e.g., React. <br>
-✅ Angular, Django), Additional Version Control Systems Databases and ORM. <br>
-✅ Test-Driven Development (TDD) and Unit Testing (e.g. <br>
-✅ JUnit, pytest), Cloud Technologies, Containerization and Orchestration. <br>
-✅ Software Design Patterns, Cloud Technologies (e.g., AWS, Azure, Google Cloud, EC2, S3, Google Cloud Storage). <br>
-✅ Containerization and Orchestration (e.g., Docker, Kubernetes), Software Design Patterns (e.g., Singleton, Observer). <br>
+✅ Network Security and Threat Analysis, Cryptography and Access Control. <br>
+✅ Web Application Security and Vulnerability Assessment, Intrusion Detection and Incident Response. <br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan28)](https://github.com/anuraghazra/github-readme-stats)
